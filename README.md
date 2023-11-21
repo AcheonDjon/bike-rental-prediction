@@ -1,2 +1,2 @@
 # bike-rental-prediction
-Bike Rental Prediction using Kaggle dataset
+Bike Rental Prediction using Kaggle datasets
